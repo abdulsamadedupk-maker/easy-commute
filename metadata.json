@@ -1,0 +1,6 @@
+{
+  "name": "Easy Commute",
+  "description": "Smart daily commute & ride-sharing platform with AI route matching, cost split, fuel & CO2 savings tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

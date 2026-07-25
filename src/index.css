@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* Leaflet container styling overrides */
+.leaflet-container {
+  font-family: inherit;
+  z-index: 1;
+}
+
